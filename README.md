@@ -1,0 +1,2 @@
+# chocolate_sale_analysis_for_sql_real
+這是我的第一個sql語法分析檔 
